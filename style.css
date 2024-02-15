@@ -5,6 +5,7 @@ text-align: center;
   width: 15rem;
   border: solid pink 0.3rem;
 margin: 5rem 0 0 0;
+  object-fit: none;
 }
 html {
   height: 100%;
