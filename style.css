@@ -1,0 +1,40 @@
+img{
+text-align: center;
+  border-radius: 10rem;
+  height: 10rem;
+  width: 10rem;
+  border: solid pink 0.3rem;
+margin: 5rem 0 0 0;
+}
+html {
+  height: 100%;
+}
+body{
+  text-align: center;
+  background-color: white;
+  font-weight: bold;
+  background-image: linear-gradient(rgba(228, 144, 179, 1),rgba(228, 144,179,0.7));
+ min-height: 100%;
+}
+h1{
+  color: white;
+  font-family: 'Courier New';
+  font-size: 1.8rem;
+  border-radius: 2rem;
+  padding: 1rem 2rem 1rem 2rem;
+  margin: 1rem 3rem 1rem 3rem;
+  }
+  a {
+  color: rgb(243, 77, 146);
+  background-color: white;
+  font-size: 20px;
+  border-radius: 2rem;
+  padding: 1rem 2rem 1rem 2rem;
+  margin: 0 10% 0 10%;
+  text-decoration: none;
+  display: block;
+  }
+  li{
+    margin: 2rem;
+    list-style: none; 
+  }
